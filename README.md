@@ -1,2 +1,35 @@
 # linux_esc_enum
 linux 重要提权漏洞枚举脚本
+
+支持枚举以下漏洞：
+CVE-2016-5195：Dirty COW
+
+CVE-2017-16995
+
+CVE-2021-3156：Baron Samedit
+
+CVE-2021-3493
+
+CVE-2021-4034：PwnKit
+
+CVE-2022-0847：Dirty Pipe
+
+CVE-2023-0386
+
+CVE-2025-32463
+
+CVE-2026-31431：Copy Fail
+
+CVE-2026-41651：Pack2TheRoot
+
+CVE-2026-43284：Dirty Frag
+
+CVE-2026-43500
+
+CVE-2026-43503：DirtyClone
+
+CVE-2026-46300：Fragnesia
+
+CVE-2026-46331
+
+CVE-2026-46333
