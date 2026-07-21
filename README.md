@@ -1,7 +1,7 @@
 # linux_esc_enum
 linux 重要提权漏洞枚举脚本
 
-支持枚举以下漏洞：
+支持枚举以下漏洞(均已复现)：
 
 CVE-2016-5195：Dirty COW
 
